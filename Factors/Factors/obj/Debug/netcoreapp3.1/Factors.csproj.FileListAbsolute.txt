@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.exe
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.deps.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\bin\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Factors\Factors\obj\Debug\netcoreapp3.1\Factors.genruntimeconfig.cache

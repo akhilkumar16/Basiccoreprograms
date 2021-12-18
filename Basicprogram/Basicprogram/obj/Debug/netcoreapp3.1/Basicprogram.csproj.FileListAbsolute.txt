@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\bin\Debug\netcoreapp3.1\Basicprogram.exe
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\bin\Debug\netcoreapp3.1\Basicprogram.deps.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\bin\Debug\netcoreapp3.1\Basicprogram.runtimeconfig.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\bin\Debug\netcoreapp3.1\Basicprogram.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\bin\Debug\netcoreapp3.1\Basicprogram.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\bin\Debug\netcoreapp3.1\Basicprogram.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Basicprogram\Basicprogram\obj\Debug\netcoreapp3.1\Basicprogram.genruntimeconfig.cache

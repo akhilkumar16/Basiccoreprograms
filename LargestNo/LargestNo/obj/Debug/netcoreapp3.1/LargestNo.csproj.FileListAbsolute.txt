@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\bin\Debug\netcoreapp3.1\LargestNo.exe
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\bin\Debug\netcoreapp3.1\LargestNo.deps.json
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\bin\Debug\netcoreapp3.1\LargestNo.runtimeconfig.json
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\bin\Debug\netcoreapp3.1\LargestNo.runtimeconfig.dev.json
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\bin\Debug\netcoreapp3.1\LargestNo.dll
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\bin\Debug\netcoreapp3.1\LargestNo.pdb
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.AssemblyInfo.cs
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.dll
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.pdb
+C:\Users\dell\Desktop\basiccoreprgms\LargestNo\LargestNo\obj\Debug\netcoreapp3.1\LargestNo.genruntimeconfig.cache

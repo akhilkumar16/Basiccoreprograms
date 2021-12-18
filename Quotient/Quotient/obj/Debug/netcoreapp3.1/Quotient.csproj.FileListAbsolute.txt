@@ -1,0 +1,13 @@
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\bin\Debug\netcoreapp3.1\Quotient.exe
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\bin\Debug\netcoreapp3.1\Quotient.deps.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\bin\Debug\netcoreapp3.1\Quotient.runtimeconfig.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\bin\Debug\netcoreapp3.1\Quotient.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\bin\Debug\netcoreapp3.1\Quotient.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\bin\Debug\netcoreapp3.1\Quotient.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Quotient\Quotient\obj\Debug\netcoreapp3.1\Quotient.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\bin\Debug\netcoreapp3.1\Swapnumber.exe
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\bin\Debug\netcoreapp3.1\Swapnumber.deps.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\bin\Debug\netcoreapp3.1\Swapnumber.runtimeconfig.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\bin\Debug\netcoreapp3.1\Swapnumber.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\bin\Debug\netcoreapp3.1\Swapnumber.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\bin\Debug\netcoreapp3.1\Swapnumber.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.dll
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.pdb
+C:\Users\Kranthi\Desktop\basiccoreprgms\Swapnumber\Swapnumber\obj\Debug\netcoreapp3.1\Swapnumber.genruntimeconfig.cache
